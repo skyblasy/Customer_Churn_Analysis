@@ -1,8 +1,6 @@
 # Customer_Churn_Analysis
 Project was inspired and based off the work of [**The AI University**](https://youtu.be/j5WJDimjgLg). Please check them out and show support for a great resource.
 
-Churn analysis finding the factors to customer churn using machine learning algorithms and a simple artificial neural network 
-
 Which customers are apt to churn and how can we predict that? Understanding factors of churn is critical to optimizing customer lifetime value, the consumer market, and being able to predict which customers you are about to lose. 
 
 This project takes subscription data and models on various covariates such as gender, contract type, device type, and others as inputs, and churn is treated as a binary target variable. 
