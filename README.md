@@ -1,5 +1,5 @@
 # Customer_Churn_Analysis
-Project was inspired and based off the work of [The AI University](https://youtu.be/j5WJDimjgLg). Please check them out and show support for a great resource.
+Project was inspired and based off the work of [**The AI University**](https://youtu.be/j5WJDimjgLg). Please check them out and show support for a great resource.
 
 Churn analysis finding the factors to customer churn using machine learning algorithms and a simple artificial neural network 
 
