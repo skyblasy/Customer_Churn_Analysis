@@ -6,11 +6,11 @@ Which customers are apt to churn and how can we predict that? Understanding fact
 This project takes subscription data and models on various covariates such as gender, contract type, device type, and others as inputs, and churn is treated as a binary target variable. 
 
 The data was scaled and for the sake of comparison modeled using a variaty of machine learning techniques from Scikit-learn’s toolkit, with simple logistic regression performing the best. 
-![me](https://github.com/skyblasy/Customer_Churn_Analysis/blob/main/modelpeformance.png)
+![me](https://github.com/skyblasy/Customer_Churn_Analysis/blob/main/gini.png)
 
 I also showed feature importance for the Random Forrest Classifier
 
-![me](https://github.com/skyblasy/Customer_Churn_Analysis/blob/main/Gini.png)
+![me](https://github.com/skyblasy/Customer_Churn_Analysis/blob/main/gini.png)
 
 And also created a simple artificial neural network for churn classification. 
 
